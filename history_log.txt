@@ -386,3 +386,4 @@ ls -al
 vi history_of_commands 
 vi vi_assign.txt
 sudo -i 
+ssh -i ~/.ssh/madhu_rhel.pem ec2-user@16.16.202.20
