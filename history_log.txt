@@ -387,3 +387,162 @@ vi history_of_commands
 vi vi_assign.txt
 sudo -i 
 ssh -i ~/.ssh/madhu_rhel.pem ec2-user@16.16.202.20
+ls -al
+cd ../
+ls -al
+cd madhumita
+ls -al
+cd ../
+ls -al
+cd mnt 
+ls -al
+cd c
+cd Users
+ls -al
+cd ../
+cd .ssh
+cd ../
+ls -al
+cd home
+cd madhumita
+cd .ssh
+ls -al
+vi vi_assign.txt 
+history 
+vi vi_assign.txt 
+ls -al 
+cd ../
+mv history_of_commands madhumita 
+cd .ssh 
+mv history_of_commands madhumita 
+cd ../
+ls -al
+pwd 
+cd .ssh
+ls -al
+cd ../
+git clone https://github.com/Madhumita1375/history_of_commands.git history_of_commands 
+ls -al
+touch hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+chmod u+x hist_com.sh 
+ls -al
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+ls -al
+vi hist_com.sh 
+cd history
+ls -al
+cd hist/
+ls -al
+cat history.txt
+cd
+ls -al
+rm history_of_commands/
+git status
+vi hist_com.sh 
+./hist_com.sh 
+git remote set-url origin https://github.com/Madhumita1375/history_of_commands.git
+cd ~/history_of_commands/
+git remote set-url origin https://github.com/Madhumita1375/history_of_commands.git
+ls -a
+./hist_com.sh 
+cd ../
+./hist_com.sh 
+ls -al
+./hist_com.sh 
+vi hist_com.sh 
+ssh-keygen -t ed25519 -C "madhumita.sundararaj@bizacuity.com"
+ls -al
+cd .ssh
+ls -al
+cd ../
+cat ~/.ssh/id_ed25519.pub
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+ssh -T git@github.com
+./hist_com.sh 
+crontab -e
+vi hist_com.sh 
+./hist_com.sh 
+ls -al 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+ls -al
+cd history 
+cd hist 
+ls -al
+rm history.txt 
+cd ../
+cd ~
+ls -al
+vi hist_com.sh 
+ls -al
+cd ../
+ls -al
+cd madhumita/
+vi pgrm.sh 
+cd .ssh
+vi pgrm.sh 
+ls -al
+ls -al 
+touch history_log.txt
+ls -al
+rm history_log.txt 
+cd history_of_commands/
+touch history_log.txt 
+rm history_log.txt 
+git status
+git add history_log.txt
+touch history_log.txt 
+git add history_log.txt
+git commit -m "Add new file: history_log.txt"
+git config --global user.email "madhumita.sundararaj@bizacuity.com"
+git commit -m "Add new file: history_log.txt"
+git config --global user.name "Madhumita1375"
+git commit -m "Add new file: history_log.txt"
+git push 
+git push -u origin main
+git remote set-url origin https://Madhumita1375:git remote set-url origin https://Madhumita1375:ghp_YourTokenHere@github.com/Madhumita1375/history_of_commands.git@github.com/Madhumita1375/history_of_commands.git
+git push -u origin main
+cd ../
+vi hist_com.sh 
+ls -al
+chmod u+x hist_com.sh 
+ls -al
+vi hist_com.sh 
+rm .hist_com.sh.swp 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+./hist_com.sh 
+vi hist_com.sh 
+ssh -i /mnt/c/Users/madhumita.sundararaj/Downloads/madhu_rhel.pem ec2-user@16.16.211.167
+cp /mnt/c/Users/madhumita.sundararaj/Downloads/madhu_rhel.pem ~/.ssh 
+cd .ssh
+ls -al
+chmod 600 madhu_rhel.pem 
+ssh -i madhu_rhel ec2-user@16.16.211.167
+ssh -i ~/.ssh/madhu_rhel.pem ec2-user@16.16.211.167
+ssh -i ~/.ssh/madhu_rhel.pem ec2-user@16.16.202.20
+cd ~
+ls -al
