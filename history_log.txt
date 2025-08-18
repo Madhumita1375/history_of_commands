@@ -546,3 +546,6 @@ ssh -i ~/.ssh/madhu_rhel.pem ec2-user@16.16.211.167
 ssh -i ~/.ssh/madhu_rhel.pem ec2-user@16.16.202.20
 cd ~
 ls -al
+vi hist_com.sh 
+crontab -1
+crontab -e
