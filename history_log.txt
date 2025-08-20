@@ -590,3 +590,34 @@ ls | grep hist_com.sh
 ls | grep 
 cd .ssh
 ssh -i ~/.ssh/madhu_rhel.pem ec2-user@13.60.89.68
+ls 
+ls -al
+find vi_assign.txt
+cd .ssh 
+ls -al
+vi vi_assign.txt 
+ssh -i madhu_rhel.pem ec2_user@16.170.158.40
+ssh -i madhumita.pem ec2_user@16.170.158.40
+ssh -i madhu.pem ec2_user@16.170.158.40
+ssh -i ec2_user@16.170.158.40
+ssh -i madhu_rhel.pem ec2_user@16.170.157.129
+ssh -i ~/.ssh/madhu.pem ec2_user@16.170.157.129
+ssh -i ~/.ssh/madhu_rhel.pem ec2_user@13.61.181.11
+ssh -i madhu_rhel.pem ec2_user@13.61.181.11
+ssh -i ~/.ssh/madhu_rhel.pem ec2_user@13.61.181.11
+ls -al
+chmod 400 madhu.pem 
+ls -al
+chmod 700 madhu.pem 
+ls -al
+ssh -i ~/.ssh/madhu.pem ec2_user@13.61.181.11
+chmod 777 madhu_ehel 
+chmod 777 madhu_rhel 
+chmod 777 madhu_rhel.pem
+ssh -i ~/.ssh/madhu_rhel.pem ec2_user@13.61.181.11
+chmod 700 madhu_rhel.pem
+ssh -i ~/.ssh/madhu_rhel.pem ec2_user@13.61.181.11
+chmod 400 madhu_rhel.pem
+ssh -i ~/.ssh/madhu_rhel.pem ec2_user@13.61.181.11
+history 
+ssh -i ~/.ssh/madhu_rhel.pem ec2-user@13.61.181.11
