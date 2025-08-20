@@ -549,3 +549,44 @@ ls -al
 vi hist_com.sh 
 crontab -1
 crontab -e
+history 
+ls -lrt
+ls -al 
+ls 
+cd ~
+cd home
+ls 
+cd ../
+ls -al
+cd madhumita 
+ls -al
+cd ../
+cd mnt
+cd c
+cd Users 
+cd ../..
+cd c
+cd Users 
+cd madhumita.sundararaj 
+cd ../.
+cd../../..
+cd ../.. .
+cd ../..
+cd ../
+corntab -e
+cd home
+cd madhumita
+crontab -e
+ls -al
+vi hist_com.sh
+crontab -e
+cd .ssh
+ls -al
+vi vi_assign.txt 
+cd ../
+history 
+crontab -e
+ls | grep hist_com.sh 
+ls | grep 
+cd .ssh
+ssh -i ~/.ssh/madhu_rhel.pem ec2-user@13.60.89.68
