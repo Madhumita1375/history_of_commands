@@ -550,3 +550,6 @@ Swap:        2097152           0     2097152
                total        used        free      shared  buff/cache   available
 Mem:         7965896      529584     6728052        3936      876064     7436312
 Swap:        2097152           0     2097152
+               total        used        free      shared  buff/cache   available
+Mem:         7965896      529816     6727680        3936      876208     7436080
+Swap:        2097152           0     2097152
