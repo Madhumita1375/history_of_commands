@@ -10640,3 +10640,38 @@ MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7272.4 avail Mem
   19344 madhumi+  20   0    2800   1536   1536 S   0.0   0.0   0:00.00 sh
   19346 madhumi+  20   0    2800   1536   1536 S   0.0   0.0   0:00.00 sh
   19349 madhumi+  20   0    9284   5120   3072 R   0.0   0.1   0:00.01 top
+top - 06:10:01 up  9:50,  1 user,  load average: 0.27, 0.31, 0.13
+Tasks:  28 total,   1 running,  27 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.7 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7779.2 total,   7253.8 free,    497.1 used,    184.3 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7282.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  20064 madhumi+  20   0    9284   5120   3072 R   9.1   0.1   0:00.01 top
+      1 root      20   0   21704  12360   9416 S   0.0   0.2   0:22.59 systemd
+      2 root      20   0    3060   1920   1792 S   0.0   0.0   0:00.01 init-sy+
+      6 root      20   0    3076   1792   1792 S   0.0   0.0   0:00.00 init
+     52 root      19  -1   66840  15000  14104 S   0.0   0.2   4:40.87 systemd+
+     97 root      20   0   25136   6144   4864 S   0.0   0.1   0:05.46 systemd+
+    166 systemd+  20   0   21452  12672  10496 S   0.0   0.2   0:03.04 systemd+
+    167 systemd+  20   0   91020   7680   6784 S   0.0   0.1   0:07.55 systemd+
+    173 root      20   0    4236   2432   2304 S   0.0   0.0   0:00.29 cron
+    174 message+  20   0    9632   4864   4480 S   0.0   0.1   0:18.45 dbus-da+
+    184 root      20   0   17968   8192   7424 S   0.0   0.1   0:05.94 systemd+
+    186 root      20   0 1978444  14472  10880 S   0.0   0.2   0:02.23 wsl-pro+
+    192 root      20   0    3160   1920   1792 S   0.0   0.0   0:00.01 agetty
+    198 syslog    20   0  222508   5376   4352 S   0.0   0.1   0:02.49 rsyslogd
+    208 root      20   0    3116   1792   1664 S   0.0   0.0   0:00.00 agetty
+    214 root      20   0  107028  22016  12928 S   0.0   0.3   0:00.09 unatten+
+    298 root      20   0    3064    896    896 S   0.0   0.0   0:00.00 Session+
+    299 root      20   0    3080    896    896 S   0.0   0.0   0:00.00 Relay(3+
+    300 madhumi+  20   0    6072   5120   3456 S   0.0   0.1   0:00.02 bash
+    301 root      20   0    6688   4224   3584 S   0.0   0.1   0:00.00 login
+    392 madhumi+  20   0   20292  11392   9344 S   0.0   0.1   0:02.50 systemd
+    393 madhumi+  20   0   21152   3520   1792 S   0.0   0.0   0:00.00 (sd-pam)
+    404 madhumi+  20   0    6072   4992   3456 S   0.0   0.1   0:00.00 bash
+   1028 polkitd   20   0  308164   7680   6912 S   0.0   0.1   0:00.07 polkitd
+  19782 root      20   0  370076  19840  17152 S   0.0   0.2   0:00.14 package+
+  20060 root      20   0    6952   3724   3200 S   0.0   0.0   0:00.00 cron
+  20061 madhumi+  20   0    2800   1536   1536 S   0.0   0.0   0:00.00 sh
+  20062 madhumi+  20   0    2800   1536   1536 S   0.0   0.0   0:00.00 sh
