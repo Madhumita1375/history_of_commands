@@ -621,3 +621,77 @@ chmod 400 madhu_rhel.pem
 ssh -i ~/.ssh/madhu_rhel.pem ec2_user@13.61.181.11
 history 
 ssh -i ~/.ssh/madhu_rhel.pem ec2-user@13.61.181.11
+chocolatey -v 
+terraform -v
+sudo snap install terraform
+sudo snap install terraform --classic 
+terraform -v
+vi test.tf 
+terraform init 
+terraform plan 
+vi test.tf 
+terraform init 
+terraform plan
+vi test.tf 
+terraform init 
+terraform plan
+vi test.tf
+terraform init 
+terraform plan
+vi test.tf
+
+terraform init 
+terraform plan
+vi test.tf
+terraform init 
+terraform plan
+vi test.tf
+aws configure 
+ls -al
+aws configure
+sudo apt  install awscli
+aws configure 
+cd .ssh
+ls -al
+ssh -i madhu_rhel.pem ec2-user@13.53.207.148
+terraform init 
+terraform plan
+cd ../
+terraform init
+terraform plan 
+ls -al
+cd .
+cd .config
+ls -al
+cd ../
+cd .ssh
+ls -al
+cd ../
+ssh -i madhu_rhel.pem ec2-user@13.53.207.148
+cd .ssh
+ssh -i madhu_rhel.pem ec2-user@13.53.207.148
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+sudo apt install unzip -y
+unzip awscliv2.zip
+sudo ./aws/install
+aws --v
+aws configure
+ls -al
+terraform init
+terraform plan
+terraform apply 
+vi test.tf
+terraform init
+vi test.tf
+terraform init
+terraform plan
+terraform apply 
+ls -al
+vi terraform.tfstate
+terraform destroy
+vi terraform.tfstate
+vi terraform.tfstate.backup 
+vi terraform.tfstate
+cd .terraform.lock.hcl
+vi .terraform.lock.hcl
+history 
