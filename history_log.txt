@@ -839,3 +839,13 @@ DATE
 which date
 ls -l /usr/bin/date
 sysdate
+find /var/log -type f
+find /var/log -type d
+ls 
+find /tools -type f
+find /tools -type d
+find -name "*.txt"
+find -name "*.sh"
+find ~ name "*.sh"
+find ~ -name "*.sh"
+find ~ -name "*.txt"
