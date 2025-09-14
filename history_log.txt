@@ -695,3 +695,147 @@ vi terraform.tfstate
 cd .terraform.lock.hcl
 vi .terraform.lock.hcl
 history 
+ls -al
+touch start_stop.tf 
+vi start_stop.tf 
+terraform init 
+vi start_stop.tf 
+terraform init 
+vi test.tf
+terraform init 
+vi test.tf
+vi start_stop.tf 
+terraform init 
+terraform plan
+terraform apply 
+cd .aws
+ls -al
+vi credentials
+vi config 
+terraform apply 
+cd ../
+terraform apply 
+aws configure --profile ec2-operator
+cd .aws
+vi config 
+cd ../
+aws ec2 start-instances   --instance-ids i-06a4ba41de1d08f65   --profile ec2-operator
+vi start_stop.tf 
+aws ec2 start-instances   --instance-ids i-06a4ba41de1d08f65   --profile ec2-operator
+aws ec2 start-instances   --instance-ids i-07d5ca670e8d7be42   --profile ec2-operator
+aws ec2 stop-instances   --instance-ids i-06a4ba41de1d08f65   --profile ec2-operator
+vi start_stop.tf 
+aws ec2 start-instances   --instance-ids i-07d5ca670e8d7be42   --profile ec2-operator
+aws ec2 stop-instances   --instance-ids i-07d5ca670e8d7be42   --profile ec2-operator
+vi start_stop.tf 
+aws ec2 start-instances   --instance-ids i-07d5ca670e8d7be42   --profile ec2-operator
+aws ec2 stop-instances   --instance-ids i-07d5ca670e8d7be42   --profile ec2-operator
+vi start_stop.tf 
+terraform init
+vi start_stop.tf 
+terraform init
+terraform plan
+terraform apply
+aws ec2 start-instances   --instance-ids i-07d5ca670e8d7be42   --profile ec2-operator
+aws ec2 stop-instances   --instance-ids i-07d5ca670e8d7be42   --profile ec2-operator
+vi start_stop.tf 
+history 
+vi start_stop.tf 
+vi bucket.tf 
+terraform init 
+terraform plan
+terraform apply
+vi bucket.tf 
+terraform init 
+terraform plan
+terraform apply
+vi bucket.tf 
+terraform init 
+terraform plan
+terraform apply
+vi bucket.tf 
+terraform init 
+vi bucket.tf 
+terraform init 
+terraform plan
+terraform apply
+ls -al
+vi start_stop.tf 
+history 
+ls 
+ls -l
+touch imp_instance.tf 
+ls -al
+vi imp_instance.tf 
+terraform import aws_instance.my_ec2 i-01a2ec6b8d269e41d
+terraform plan 
+vi imp_instance.tf 
+ls -al
+vi test.tf
+vi imp_instance.tf 
+terraform plan 
+vi imp_instance.tf 
+terraform import aws_cloudwatch_metric_alarm.ec2_cpu_credit_alarm awsec2-i-01a2ec6b8d269e41d-GreaterThanOrEqualToThreshold-CPUCreditUsage
+vi imp_instance.tf 
+terraform plan 
+terraform apply 
+vi imp_instance.tf 
+terraform plan 
+terraform apply
+vi imp_instance.tf 
+history
+vi imp_instance.tf 
+terraform plan 
+terraform apply 
+ls -al 
+wsl -v
+ubuntu -v
+choco -v
+terraform -v
+uname -a 
+-a
+lscpu
+man lscpu
+mkdir -p tools/index/helper-scripts
+ls -al
+cd tools 
+ls -al
+cd index 
+ls -al 
+cd helper-scripts
+ls -al
+cd ~
+ls -al
+rm tools 
+rmdir tools
+rm -r tools 
+ls -al
+cd index
+mkdir tools 
+rkdir tools
+rmdir tools 
+ls -al
+mkdir tools 
+cd tools 
+touch tools.txt 
+cd `
+cd 
+rm tools.txt
+rm -f tools.txt
+cd tools 
+ls -al
+rm -f tools.txt
+ls -al
+tail 
+tail test.tf
+cd ..
+tail
+tail test.tf
+ls -lrt | grep motd
+ls -lrt | grep test 
+ip a
+ifconfig
+DATE
+which date
+ls -l /usr/bin/date
+sysdate
